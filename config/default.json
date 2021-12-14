@@ -1,0 +1,5 @@
+{
+  "db": {
+    "connectionString": "mongodb+srv://zparker:rVc4MLjt7OX4TaH4@charc.yr6rw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
+}
